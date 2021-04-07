@@ -1,0 +1,8 @@
+"skeleton-horror-schema"
+{
+	"base"		"nutscript"
+	"title"		"Skeleton Horror Schema"
+	"author"	"Seamus"
+	"menusystem" 	"1"
+	"category"	"rp"
+}

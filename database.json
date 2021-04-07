@@ -1,0 +1,8 @@
+{
+    "module": "sqlite",
+    "hostname": "",
+    "username": "",
+	"password": "",
+	"database": "nutscript",
+	"port": 3306
+}
